@@ -1,0 +1,5 @@
+pygame>=2.5.2
+PyOpenGL>=3.1.7
+numpy>=1.26.2
+opensimplex>=0.4.3
+ursina>=5.3.0 
